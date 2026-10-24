@@ -6,33 +6,33 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "eslint ."
   },
   "dependencies": {
-    "@chakra-ui/icons": "^2.1.0",
-    "@chakra-ui/next-js": "^2.1.5",
-    "@chakra-ui/react": "^2.8.0",
-    "@emotion/react": "^11.11.1",
-    "@emotion/styled": "^11.11.0",
-    "@types/crypto-js": "^4.1.1",
-    "@types/react-dom": "18.2.7",
-    "crypto-js": "^4.1.1",
-    "eslint": "8.46.0",
-    "eslint-config-next": "13.4.12",
-    "framer-motion": "^10.15.0",
-    "next": "13.4.12",
-    "random-words": "^2.0.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "react-hook-form": "^7.45.2"
+    "@chakra-ui/icons": "^2.2.4",
+    "@chakra-ui/next-js": "^2.4.2",
+    "@chakra-ui/react": "^2.10.10",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@types/crypto-js": "^4.2.2",
+    "@types/react-dom": "19.3.0",
+    "crypto-js": "^4.2.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "16.4.3",
+    "framer-motion": "^14.6.0",
+    "next": "16.4.3",
+    "random-words": "^2.0.1",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "react-hook-form": "^7.91.0"
   },
   "engines": {
     "node": ">=22"
   },
   "devDependencies": {
-    "@types/node": "^22",
-    "@types/react": "^18.2.17",
-    "sass": "^1.64.2",
-    "typescript": "^5.1.6"
+    "@types/node": "^26",
+    "@types/react": "^19.3.0",
+    "sass": "^1.106.1",
+    "typescript": "^6.0.3"
   }
 }
